@@ -21,3 +21,7 @@ class Solution {
         return res;        
     }
 }
+
+
+Approach 2 (MY Approach)
+    
